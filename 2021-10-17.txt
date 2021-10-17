@@ -31,6 +31,8 @@ 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
 
 
 ========================
+//생성
+https://www.daleseo.com/git-init/ 
 
 echo "# shareFolder" >> README.md
 git init
